@@ -1,5 +1,7 @@
 # Topsis Package by Gagandeep Singh 101803390
 
+pip install TOPSIS_GAGANDEEP_SINGH_101803390
+
 This package gives the function save_topsis(input,weights,target,output) which takes four parameters:
     1. input : is the location of input file
     2. weight : this takes the input value of every parameter weights "0.1,0.2,0.3,0.4"
